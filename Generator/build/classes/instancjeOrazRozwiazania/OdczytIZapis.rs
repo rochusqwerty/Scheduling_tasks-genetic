@@ -1,0 +1,2 @@
+instancjeOrazRozwiazania.OdczytIZapis
+instancjeOrazRozwiazania.KomparatorCzasStartuPrzerwania
